@@ -46,21 +46,22 @@
 
 .slide:nth-of-type(2) {
     background-color: orange;
-    background-image: url('../g-2-js/images/Метаморфозы_природы_04.png');
+    background-image: url('../g-2-js/images/4.jpg');
 }
 
 .slide:nth-of-type(3) {
     background-color: green;
-    background-image: url('../g-2-js/images/4653e069ed7369840191e8bf38ab8dc9_M.jpg');
+    background-image: url('../g-2-js/images/5.jpg');
 }
 
 .slide:nth-of-type(4) {
     background: blue;
-    background-image: url('../g-2-js/images/images\ \(1\).jpg');
+    background-image: url('../g-2-js/images/4.jpg');
 }
 
 .slide:nth-of-type(5) {
     background: purple;
+    background-image: url('../g-2-js/images/Zugspitzregion-48.jpg');
 }
 
 .controls {
